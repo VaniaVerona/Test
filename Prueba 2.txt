@@ -1,0 +1,4 @@
+Verificar consulta de tabla producto
+Verificar consulta de tabla venta
+Verificar consulta de tabla clientes
+Obtener información de ventas realizadas
